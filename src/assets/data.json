@@ -1,0 +1,31 @@
+{
+    "types": ["IT Component", "Provider", "Product Family", "TBM"],
+    "forms": {
+        "itc": [{
+                "formControlName": "name",
+                "name": "Name",
+                "placeholder": "Jam Board"
+            },
+            {
+                "formControlName": "provider",
+                "name": "Provider",
+                "placeholder": "Jam Board"
+            },
+            {
+                "formControlName": "version",
+                "name": "Version",
+                "placeholder": "1.0"
+            },
+            {
+                "formControlName": "editon",
+                "name": "Edition",
+                "placeholder": "Enterprise"
+            }
+        ],
+        "provider": [],
+        "productFamily": [],
+        "tbm": []
+    },
+    "providers": [],
+    "editions": []
+}

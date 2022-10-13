@@ -1,0 +1,82 @@
+[
+  {
+    "id": "76e86f1e-9cec-4ad3-a0e9-32bce9b11c44",
+    "name": ".NET Foundation project LINQ to DB 2.7.1",
+    "type": "ITComponent"
+  },
+  {
+    "id": "9474a0a5-415d-4870-a5b0-7a2c58e24a8c",
+    "name": ".NET Foundation WiX Toolset 3.0",
+    "type": "Provider"
+  },
+  {
+    "id": "9ef88a58-08ac-409a-ab54-7fb40a409f4e",
+    "name": ".NET Foundation WiX Toolset 3.11",
+    "type": "ITComponent"
+  },
+  {
+    "id": "35cc919d-8185-4b5b-91fd-2cfdfeaa5edb",
+    "name": ".NET Foundation WiX Toolset 3.11.2",
+    "type": "ITComponent"
+  },
+  {
+    "id": "5a6be955-b5b5-4f71-9377-fd2d0bf4a8a8",
+    "name": ".NET Foundation xUnit.net 2.0",
+    "type": "ITComponent"
+  },
+  {
+    "id": "298f5253-c925-4dcf-8e95-6b4fc8a7aa1f",
+    "name": ".NET Foundation xUnit.net 2.1",
+    "type": "ITComponent"
+  },
+  {
+    "id": "0fe87dd1-04f6-4f9f-91f0-f5f0fb50eab0",
+    "name": ".Net Framework 4.8",
+    "type": "Product Family"
+  },
+  {
+    "id": "a5b6559f-cf22-4fda-89c5-1adc33563e0a",
+    "name": ".riess engineering europe riess MigrationSuite",
+    "type": "ITComponent"
+  },
+  {
+    "id": "2ccdc5cc-f4d1-40e0-b148-f39c0d8f7058",
+    "name": ".riess engineering europe riess ProcessOptimizer",
+    "type": "ITComponent"
+  },
+  {
+    "id": "833e9d1d-f179-449d-873c-903eb4bb09ea",
+    "name": "//SEIBERT/MEDIA draw.io Diagrams for Confluence 5.3",
+    "type": "ITComponent"
+  },
+  {
+    "id": "4e9f3ef4-149f-4905-9391-37c8c27cea5a",
+    "name": "//SEIBERT/MEDIA draw.io Diagrams for Confluence 8.0",
+    "type": "ITComponent"
+  },
+  {
+    "id": "2ab4d3b9-a789-467c-a94c-b734fe3da65d",
+    "name": "//SEIBERT/MEDIA draw.io Diagrams for Confluence 9.5.5",
+    "type": "ITComponent"
+  },
+  {
+    "id": "26dfa140-ca24-4c6e-9ebd-bffc8ab4a17b",
+    "name": "//SEIBERT/MEDIA draw.io Diagrams for Confluence 9.6.5",
+    "type": "ITComponent"
+  },
+  {
+    "id": "6e1b8f1c-d8dc-464a-a8d5-f6bad1b888a0",
+    "name": "//SEIBERT/MEDIA draw.io Diagrams for Confluence Cloud",
+    "type": "TBM"
+  },
+  {
+    "id": "51103db8-1711-4760-bfae-744debe7a52d",
+    "name": "//SEIBERT/MEDIA draw.io Diagrams for Jira Cloud",
+    "type": "TBM"
+  },
+  {
+    "id": "10491fe0-3dac-46bb-9f43-5a0149701759",
+    "name": "/n software IPWorks SSH 9.0",
+    "type": "ITComponent"
+  }
+]

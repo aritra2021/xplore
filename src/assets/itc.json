@@ -1,0 +1,178 @@
+[
+  {
+    "id": "76e86f1e-9cec-4ad3-a0e9-32bce9b11c44",
+    "externalId": "lx_ITC_000960",
+    "type": "ITComponent",
+    "name": ".NET Foundation project LINQ to DB 2.7.1",
+    "description": "LINQ to DB is the fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.Architecturally it is one step above micro-ORMs like Dapper, Massive, or PetaPoco, in that you work with LINQ expressions, not with magic strings, while maintaining a thin abstraction layer between your code and the database. Your queries are checked by the C# compiler and allow for easy refactoring.",
+    "version": "2.7.1",
+    "edition": "",
+    "product_family": "Microsoft / .NET Foundation",
+    "tbm_category": "Delivery / Development / Design & Development"
+  },
+  {
+    "id": "9474a0a5-415d-4870-a5b0-7a2c58e24a8c",
+    "externalId": "lx_ITC_000961",
+    "type": "Provider",
+    "name": ".NET Foundation WiX Toolset 3.0",
+    "description": "The WiX toolset lets developers create installers for Windows Installer, the Windows installation engine. The core of WiX is a set of build tools that build Windows Installer packages using the same build concepts as the rest of the product: source code is compiled and then linked to create executables; in this case .exe setup bundles, .msi installation packages, .msm merge modules, and .msp patches. The WiX command-line build tools work with any automated build system. Also, MSBuild is supported from the command line, Visual Studio, and Team Build.",
+    "version": 3,
+    "edition": "",
+    "product_family": "Microsoft / .NET Foundation",
+    "tbm_category": "Delivery / Development / Design & Development"
+  },
+  {
+    "id": "9ef88a58-08ac-409a-ab54-7fb40a409f4e",
+    "externalId": "lx_ITC_022427",
+    "type": "ITComponent",
+    "name": ".NET Foundation WiX Toolset 3.11",
+    "description": "The WiX toolset lets developers create installers for Windows Installer, the Windows installation engine. The core of WiX is a set of build tools that build Windows Installer packages using the same build concepts as the rest of the product: source code is compiled and then linked to create executables; in this case .exe setup bundles, .msi installation packages, .msm merge modules, and .msp patches. The WiX command-line build tools work with any automated build system. Also, MSBuild is supported from the command line, Visual Studio, and Team Build.",
+    "version": 3.11,
+    "edition": "",
+    "product_family": "Microsoft / .NET Foundation",
+    "tbm_category": "Delivery / Development / Design & Development"
+  },
+  {
+    "id": "35cc919d-8185-4b5b-91fd-2cfdfeaa5edb",
+    "externalId": "lx_ITC_030736",
+    "type": "ITComponent",
+    "name": ".NET Foundation WiX Toolset 3.11.2",
+    "description": "The WiX toolset lets developers create installers for Windows Installer, the Windows installation engine. The core of WiX is a set of build tools that build Windows Installer packages using the same build concepts as the rest of the product: source code is compiled and then linked to create executables; in this case .exe setup bundles, .msi installation packages, .msm merge modules and .msp patches. The WiX command-line build tools work with any automated build system. Also, MSBuild is supported from the command line, Visual Studio, and Team Build.",
+    "version": "3.11.2",
+    "edition": "",
+    "product_family": "Microsoft / .NET Foundation",
+    "tbm_category": "Delivery / Development / Design & Development"
+  },
+  {
+    "id": "5a6be955-b5b5-4f71-9377-fd2d0bf4a8a8",
+    "externalId": "lx_ITC_029630",
+    "type": "ITComponent",
+    "name": ".NET Foundation xUnit.net 2.0",
+    "description": "xUnit.net is a free and open-source unit testing tool for the .NET Framework. xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages. xUnit.net works with ReSharper, CodeRush, TestDriven.NET, and Xamarin.",
+    "version": 2,
+    "edition": "",
+    "product_family": "Microsoft / .NET Foundation",
+    "tbm_category": "Delivery / Development / Testing"
+  },
+  {
+    "id": "298f5253-c925-4dcf-8e95-6b4fc8a7aa1f",
+    "externalId": "lx_ITC_029629",
+    "type": "ITComponent",
+    "name": ".NET Foundation xUnit.net 2.1",
+    "description": "xUnit.net is a free and open-source unit testing tool for the .NET Framework. xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages. xUnit.net works with ReSharper, CodeRush, TestDriven.NET, and Xamarin.",
+    "version": 2.1,
+    "edition": "",
+    "product_family": "Microsoft / .NET Foundation",
+    "tbm_category": "Delivery / Development / Testing"
+  },
+  {
+    "id": "0fe87dd1-04f6-4f9f-91f0-f5f0fb50eab0",
+    "externalId": "lx_ITC_000011",
+    "type": "Product Family",
+    "name": ".Net Framework 4.8",
+    "description": ".NET Framework is a technology that supports building and running Windows apps and web services. .NET Framework is the original implementation of .NET.",
+    "version": 4.8,
+    "edition": "",
+    "product_family": "Microsoft",
+    "tbm_category": "Delivery / Development / Design & Development"
+  },
+  {
+    "id": "a5b6559f-cf22-4fda-89c5-1adc33563e0a",
+    "externalId": "lx_ITC_044552",
+    "type": "ITComponent",
+    "name": ".riess engineering europe riess MigrationSuite",
+    "description": ".riess MigrationSuite is the right application for users to migrate their data from the previous Product Data Management system or the file server to SAP PLM. The core builds a dedicated migration database that manages all of the PTC Creo Parametric files, structures, and other file types, as well as all their associated metadata.",
+    "version": "",
+    "edition": "",
+    "product_family": ".riess engineering europe",
+    "tbm_category": "Delivery / Development / Modernization & Migration"
+  },
+  {
+    "id": "2ccdc5cc-f4d1-40e0-b148-f39c0d8f7058",
+    "externalId": "lx_ITC_041886",
+    "type": "ITComponent",
+    "name": ".riess engineering europe riess ProcessOptimizer",
+    "description": ".riess ProcessOptimizer is the solution that helps to implement an event-based, configurable set of rules for status changes, document creation, and management of users PTC Creo Parametric files. .riess ProcessOptimizer as a solution that provides event-triggered process control based on SAP objects.",
+    "version": "",
+    "edition": "",
+    "product_family": ".riess engineering europe",
+    "tbm_category": "Delivery / Strategy & Planning / Program, Product & Project Management"
+  },
+  {
+    "id": "833e9d1d-f179-449d-873c-903eb4bb09ea",
+    "externalId": "lx_ITC_013777",
+    "type": "ITComponent",
+    "name": "//SEIBERT/MEDIA draw.io Diagrams for Confluence 5.3",
+    "description": "draw.io provides you with graphic components and powerful functionality for making flow charts, process diagrams, org charts, UML, ER diagrams, network diagrams and much more.",
+    "version": 5.3,
+    "edition": "",
+    "product_family": "//SEIBERT/MEDIA",
+    "tbm_category": "Workplace / Communication & Collaboration / Productivity"
+  },
+  {
+    "id": "4e9f3ef4-149f-4905-9391-37c8c27cea5a",
+    "externalId": "lx_ITC_013778",
+    "type": "ITComponent",
+    "name": "//SEIBERT/MEDIA draw.io Diagrams for Confluence 8.0",
+    "description": "draw.io provides you with graphic components and powerful functionality for making flow charts, process diagrams, org charts, UML, ER diagrams, network diagrams and much more.",
+    "version": 8,
+    "edition": "",
+    "product_family": "//SEIBERT/MEDIA",
+    "tbm_category": "Workplace / Communication & Collaboration / Productivity"
+  },
+  {
+    "id": "2ab4d3b9-a789-467c-a94c-b734fe3da65d",
+    "externalId": "lx_ITC_029389",
+    "type": "ITComponent",
+    "name": "//SEIBERT/MEDIA draw.io Diagrams for Confluence 9.5.5",
+    "description": "draw.io is a secure diagram generation tool embedded in confluence.draw.io provides one with graphic components and powerful functionality for making flow charts, process diagrams, org charts, UML, ER diagrams, network diagrams, and much more.",
+    "version": "9.5.5",
+    "edition": "",
+    "product_family": "//SEIBERT/MEDIA",
+    "tbm_category": "Workplace / Communication & Collaboration / Productivity"
+  },
+  {
+    "id": "26dfa140-ca24-4c6e-9ebd-bffc8ab4a17b",
+    "externalId": "lx_ITC_030395",
+    "type": "ITComponent",
+    "name": "//SEIBERT/MEDIA draw.io Diagrams for Confluence 9.6.5",
+    "description": "draw.io is a secure diagram generation tool embedded in confluence.draw.io provides one with graphic components and powerful functionality for making flow charts, process diagrams, org charts, UML, ER diagrams, network diagrams, and much more.",
+    "version": "9.6.5",
+    "edition": "",
+    "product_family": "//SEIBERT/MEDIA",
+    "tbm_category": "Workplace / Communication & Collaboration / Productivity"
+  },
+  {
+    "id": "6e1b8f1c-d8dc-464a-a8d5-f6bad1b888a0",
+    "externalId": "lx_ITC_039148",
+    "type": "TBM",
+    "name": "//SEIBERT/MEDIA draw.io Diagrams for Confluence Cloud",
+    "description": "draw.io Diagrams for Confluence Cloud is a diagramming solution for Confluence Cloud. Users can create powerful, easy to use and secure diagrams and flowcharts using draw.io Diagrams for Confluence Cloud.",
+    "version": "",
+    "edition": "",
+    "product_family": "//SEIBERT/MEDIA",
+    "tbm_category": "Workplace / Communication & Collaboration / Productivity"
+  },
+  {
+    "id": "51103db8-1711-4760-bfae-744debe7a52d",
+    "externalId": "lx_ITC_032780",
+    "type": "TBM",
+    "name": "//SEIBERT/MEDIA draw.io Diagrams for Jira Cloud",
+    "description": "draw.io provides you with graphic components and powerful functionality for making flow charts, process diagrams, org charts, UML, ER diagrams, network diagrams and much more.",
+    "version": "",
+    "edition": "",
+    "product_family": "//SEIBERT/MEDIA",
+    "tbm_category": "Workplace / Communication & Collaboration / Productivity"
+  },
+  {
+    "id": "10491fe0-3dac-46bb-9f43-5a0149701759",
+    "externalId": "lx_ITC_015469",
+    "type": "ITComponent",
+    "name": "/n software IPWorks SSH 9.0",
+    "description": "IPWorks SSH is a suite of Secure Shell (SSH) enabled components for Internet development. Developers can build SSH secured apps using tools including a generic SSH component, Secure FTP (SFTP / SCP), SExec, SSHTunnel, etc.",
+    "version": 9,
+    "edition": "",
+    "product_family": "/n software",
+    "tbm_category": "Delivery / Development / Design & Development"
+  }
+]
